@@ -7,6 +7,7 @@ The dashboard provides insights into revenue performance, customer segmentation,
 📊 Key Features
 
 Revenue Overview
+
 *Total Revenue: $71.3M
 *Profit: $58.5M
 *Profit Margin: 82.0%
