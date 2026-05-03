@@ -5,11 +5,13 @@ This project presents an end-to-end sales and customer analytics dashboard built
 The dashboard provides insights into revenue performance, customer segmentation, product profitability, and geographic trends to support data-driven decision-making.
 
 📊 Key Features
+
 Revenue Overview
-Total Revenue: $71.3M
-Profit: $58.5M
-Profit Margin: 82.0%
-Quantity Sold: 269K units
+*Total Revenue: $71.3M
+*Profit: $58.5M
+*Profit Margin: 82.0%
+*Quantity Sold: 269K units
+
 Customer Insights
 Total Customers: 200
 Average Revenue per Customer: $356.5K
