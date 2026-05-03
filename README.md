@@ -66,3 +66,4 @@ Tools Used
 
 Project Files
 [Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-DrugLookup.csv)
+[Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-FactTable.csv)
