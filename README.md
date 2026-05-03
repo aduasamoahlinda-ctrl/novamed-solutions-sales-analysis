@@ -15,7 +15,7 @@ NovaMed needed a way to:
 
 Dashboard Preview 
 
-![Novamed Dashboard Preview](
+![Novamed Dashboard Preview](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-Dashboard-Overview.png)
 Solution
 Developed an interactive Power BI dashboard that enables stakeholders to:
 - Track KPIs in real time
