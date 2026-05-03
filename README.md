@@ -65,6 +65,11 @@ Tools Used
 - Data Modeling
 
 Project Files
+
+
 [Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-DrugLookup.csv)
 [Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-FactTable.csv)
 [Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-CustomerTable.csv)
+
+
+[PowerBI Dashboard](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/NovaMed%20Solution%20Analysis.pbix)
