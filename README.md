@@ -64,3 +64,5 @@ Tools Used
 - Power Query
 - Data Modeling
 
+Project Files
+[Dataset](https://github.com/aduasamoahlinda-ctrl/novamed-solutions-sales-analysis/blob/main/Novamed-DrugLookup.csv)
